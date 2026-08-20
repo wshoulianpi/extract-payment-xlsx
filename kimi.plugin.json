@@ -1,0 +1,10 @@
+{
+  "name": "extract-payment-xlsx",
+  "version": "1.0.0",
+  "description": "从收款凭证截图（银行电子回执、承兑汇票、背书制单等）中提取付款方和金额，汇总生成 xlsx 表格",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "收款截图提取 xlsx",
+    "shortDescription": "从财务收款截图提取付款方与金额并生成 Excel 汇总表"
+  }
+}
